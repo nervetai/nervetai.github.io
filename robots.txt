@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nervetai.github.io/sitemap.html.gz
+Sitemap: https://nervetai.github.io/app/sitemap.html.gz
+Sitemap: https://nervetai.github.io/assets/sitemap.html.gz
+Sitemap: https://nervetai.github.io/css/sitemap.html.gz
+Sitemap: https://nervetai.github.io/includes/sitemap.html.gz
+Sitemap: https://nervetai.github.io/item/sitemap.html.gz
+Sitemap: https://nervetai.github.io/src/sitemap.html.gz
